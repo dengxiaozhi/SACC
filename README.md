@@ -1,6 +1,6 @@
 # Strongly Augmented Contrastive Clustering (SACC)
 
-By Xiao-Zhi Deng, Dong Huang, Ding-Hua Chen, Chang-Dong Wang and Jian-Huang Lai.
+By Xiaozhi Deng, Dong Huang, Ding-Hua Chen, Chang-Dong Wang and Jian-Huang Lai.
 
 This is a Pytorch implementation of the paper.
 
