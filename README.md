@@ -34,6 +34,17 @@ The representation encoder of the proposed SACC is ResNet34.
 
 There is a configuration file "config/config.yaml", where one can edit both the training and test options.
 
+## Citation
+
+If you find SACC useful in your research, please consider citing:
+```
+@article{deng2022strongly,
+  title={Strongly Augmented Contrastive Clustering},
+  author={Deng, Xiaozhi and Huang, Dong and Chen, Ding-Hua and Wang, Chang-Dong and Lai, Jian-Huang},
+  journal={arXiv preprint arXiv:2206.00380},
+  year={2022}
+}
+```
 ## Acknowledgment for reference repos
 
 - [CC](https://github.com/Yunfan-Li/Contrastive-Clustering)
