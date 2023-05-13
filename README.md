@@ -2,7 +2,7 @@
 
 By Xiaozhi Deng, Dong Huang, Ding-Hua Chen, Chang-Dong Wang and Jian-Huang Lai.
 
-This is a Pytorch implementation of the paper.
+This is a Pytorch implementation of the paper. ()
 
 ![network](figures/network.png)
 
@@ -38,11 +38,14 @@ There is a configuration file "config/config.yaml", where one can edit both the 
 
 If you find SACC useful in your research, please consider citing:
 ```
-@article{deng2022strongly,
-  title={Strongly Augmented Contrastive Clustering},
+@article{deng2023strongly,
+  title={Strongly augmented contrastive clustering},
   author={Deng, Xiaozhi and Huang, Dong and Chen, Ding-Hua and Wang, Chang-Dong and Lai, Jian-Huang},
-  journal={arXiv preprint arXiv:2206.00380},
-  year={2022}
+  journal={Pattern Recognition},
+  volume={139},
+  pages={109470},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
 ## Acknowledgment for reference repos
